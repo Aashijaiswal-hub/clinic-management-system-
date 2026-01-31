@@ -77,7 +77,7 @@ This project moves beyond basic CRUD operations to demonstrate advanced engineer
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/DataWiseWizard/Clinic-Management-System.git]
+    git clone https://github.com/Aashijaiswal-hub/clinic-management-system-
     cd clinic-management-system
     ```
 
@@ -117,5 +117,4 @@ This project moves beyond basic CRUD operations to demonstrate advanced engineer
 
 ---
 
-**Developed by Rudraksha Kumbhkar**
-*Engineered for Scale, Built for People.*
+**Developed by Aashi Jaiswal**
