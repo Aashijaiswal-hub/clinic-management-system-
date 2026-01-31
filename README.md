@@ -78,7 +78,7 @@ This project moves beyond basic CRUD operations to demonstrate advanced engineer
 1.  **Clone the repository**
     ```bash
     git clone https://github.com/Aashijaiswal-hub/clinic-management-system-
-    cd clinic-management-system
+    cd clinic-system
     ```
 
 2.  **Install Dependencies**
